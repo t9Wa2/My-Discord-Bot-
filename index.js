@@ -2,7 +2,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = 'NzE5OTA1OTgxNjg1MDM5MTM0.XuCleQ.G7v9NMUxx1bO_M4i69KTtM2YVpA';
+const token = 'NzE5OTA1OTgxNjg1MDM5MTM0.XuCleQ.G7v9NMUxx1bO_M4i69KTtM2YVpA'; //Take your bot's token because that's mine and it doesn't work discord change it
 
 const PREFIX = 'h!';
 
